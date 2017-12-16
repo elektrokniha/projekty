@@ -1,9 +1,17 @@
-(Omlouvám se, mějte prosím chvilku strpení)
-===========================================
+Calcuino
+========
 
-Práce na knížce zabrala dost času, a i když jsem všechna zapojení ověřil a otestoval, tak se stalo, že mi už nezbyl čas na to, abych vyčistil zdrojové kódy a připravil je 
-k publikaci. Proto se moc omlouvám, že stále ještě nejsou zdrojové kódy ke stažení. Prosím o chvilku strpení, během nejbližší doby to napravím. 
+Hardware je popsán v článku [Calcuino](https://retrocip.cz/calcuino-1/). Jednotlivé adresáře obsahuijí různé verze firmware. Přiložena je i použitá zobrazovací knihovna.
 
-Děkuju za pochopení
+3D model pro krabičku na klávesnici naleznete zde: [Krabička pro Calcuino](https://retrocip.cz/krabicka-pro-calcuino/)
 
-_váš autor_
+Foto
+----
+
+![Foto Calcuino](calcuino-fotka.jpg "Foto Calcuino")
+
+
+Klávesnice
+----
+
+![Foto Calcuino](calcuino1.jpg "Popisky kláves")
