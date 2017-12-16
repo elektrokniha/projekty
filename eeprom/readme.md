@@ -1,9 +1,4 @@
-(Omlouvám se, mějte prosím chvilku strpení)
-===========================================
+Práce s EEPROM (+errata)
+========================
 
-Práce na knížce zabrala dost času, a i když jsem všechna zapojení ověřil a otestoval, tak se stalo, že mi už nezbyl čas na to, abych vyčistil zdrojové kódy a připravil je 
-k publikaci. Proto se moc omlouvám, že stále ještě nejsou zdrojové kódy ke stažení. Prosím o chvilku strpení, během nejbližší doby to napravím. 
-
-Děkuju za pochopení
-
-_váš autor_
+_V knize je omylem vytisknutá stará verze zdrojového kódu, správně má být místo funkcí Wire.send a Wire.receive použit zápis Wire.write a Wire.read. Za chybu se omlouvám._
