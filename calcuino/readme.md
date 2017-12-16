@@ -14,4 +14,4 @@ Foto
 Klávesnice
 ----
 
-![Foto Calcuino](calcuino1.jpg "Popisky kláves")
+![Popisky kláves](calcuino1.png "Popisky kláves")
