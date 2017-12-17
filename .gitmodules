@@ -4,3 +4,6 @@
 [submodule "esp/WiFiManager"]
 	path = esp/WiFiManager
 	url = https://github.com/tzapu/WiFiManager.git
+[submodule "lm75/LM75"]
+	path = lm75/LM75
+	url = https://github.com/thefekete/LM75.git
