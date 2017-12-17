@@ -1,3 +1,6 @@
 [submodule "rf24/RF24"]
 	path = rf24/RF24
 	url = https://github.com/nRF24/RF24.git
+[submodule "esp/WiFiManager"]
+	path = esp/WiFiManager
+	url = https://github.com/tzapu/WiFiManager.git

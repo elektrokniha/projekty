@@ -1,9 +1,6 @@
-(Omlouvám se, mějte prosím chvilku strpení)
+Znakový displej 16x2 na sběrnici I2C
 ===========================================
 
-Práce na knížce zabrala dost času, a i když jsem všechna zapojení ověřil a otestoval, tak se stalo, že mi už nezbyl čas na to, abych vyčistil zdrojové kódy a připravil je 
-k publikaci. Proto se moc omlouvám, že stále ještě nejsou zdrojové kódy ke stažení. Prosím o chvilku strpení, během nejbližší doby to napravím. 
+Toto zapojení používá tzv. [I2C expandér](http://s.click.aliexpress.com/e/fUnEeM7) (typ PCF8574). 
 
-Děkuju za pochopení
-
-_váš autor_
+![LCD-1602](lcd_1602.jpg "LCD 1602")
